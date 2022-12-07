@@ -1,5 +1,5 @@
 - 👋🏻 Hi, I’m @aditinamdev
-- 👩🏻‍💻 I’m interested in easy tech
+- 👩🏻‍💻 I’m interested in easy tech solutions
 - 📚 I’m currently pursuing my masters
 - 📫 How to reach me: aditinamdev26@gmail.com
 
