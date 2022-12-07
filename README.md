@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @aditinamdev
-- 👀 I’m interested in studying
-- 🌱 I’m currently learning numbers
-- 📫 How to reach me: don't. 
+- 👋🏻 Hi, I’m @aditinamdev
+- 👩🏻‍💻 I’m interested in easy tech
+- 📚 I’m currently pursuing my masters
+- 📫 How to reach me: aditinamdev26@gmail.com
 
 <!---
 aditinamdev/aditinamdev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
