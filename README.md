@@ -1,6 +1,6 @@
 - 👋🏻 Hi, I’m @aditinamdev
 - 👩🏻‍💻 I’m a data geek 👩🏻‍💻
-- 📚 I’m currently pursuing my masters
+- 📚 I’m currently pursuing my masters at Northeastern
 - 📫 How to reach me: aditinamdev26@gmail.com
 
 <!---
