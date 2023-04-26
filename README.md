@@ -1,7 +1,7 @@
 - 👋🏻 Hi, I’m @aditinamdev
 - 👩🏻‍💻 I’m a data geek
 - 📚 I’m currently pursuing my masters at Northeastern
-- 📫 How to reach me: aditinamdev26@gmail.com
+- 📫 How to reach me: namdeo.a@northeastern.edu
 
 <!---
 aditinamdev/aditinamdev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
