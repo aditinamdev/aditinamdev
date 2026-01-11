@@ -1,4 +1,4 @@
-- 👋🏻 Hi, I’m @aditiinamdev!
+- 👋🏻 Hi, I’m @aditinamdev!
 - 👩🏻‍💻 I’m a data professional
 - 📚 I like creating data-driven solutions to improve performances
 - 📫 How to reach me: namdeo.a@northeastern.edu/ aditinamdev26@gmail.com
